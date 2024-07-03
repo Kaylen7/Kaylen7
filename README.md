@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="kCH8Lk1-wDwXZYnzKUFeDNKQTwOAVlkKeUjSPgAmsYg" />
+
 <!--
 **Kaylen7/Kaylen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
