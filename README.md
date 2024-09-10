@@ -5,4 +5,4 @@ A self-learner and tech-passionate transitioning from editorial design to softwa
 - [LinkedIn](https://www.linkedin.com/in/saradomenechm)
 - [Email](mailto:sara.domenechm@gmail.com)
 
-I'm always open to collaborating on innovative projects or discussing opportunities in backend development, machine learning, or full-stack roles!
+I'm always open to collaborating on innovative projects or discussing opportunities in web development, machine learning, or full-stack roles!
